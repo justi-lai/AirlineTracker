@@ -1,0 +1,21 @@
+FlightID,Airline,numBags,ArrivalTime,DepartureTime,Price,Terminal,FlightStatus,StartingCity,EndCity,StartingGate,EndingGate,SeatClass
+1,Southwest,2,2024/01/26 12:04:00,2024/01/08 00:41:00,409.0825102,W,On Time,Parkview,New David,1320,703,Economy
+2,Delta,5,2024/02/08 18:43:00,2024/03/27 05:33:00,112.6863182,B,Delayed,East Anthonymouth,East Tommy,871,757,Business
+3,Spirit,4,2024/03/29 20:05:00,2024/01/12 09:22:00,320.2816206,R,On Time,New Eric,Tatetown,13914,19871,Economy
+4,Delta,5,2024/03/18 03:46:00,2024/01/18 04:52:00,360.5884838,S,On Time,West Joshualand,North Nicole,166,857,Economy
+5,Southwest,2,2024/04/09 00:32:00,2024/03/26 12:13:00,60.96261825,A,On Time,South Jennifer,Kristinaland,717,3442,Business
+6,Delta,2,2024/02/19 02:37:00,2024/01/27 03:38:00,372.1953038,H,On Time,South Benjaminhaven,South Wayne,62657,293,Economy
+7,United,5,2024/01/29 13:46:00,2024/04/04 05:12:00,450.969944,Q,Delayed,New Alexanderville,Joeport,88377,1,Business
+8,Spirit,1,2024/01/29 03:01:00,2024/04/08 15:53:00,248.0639542,P,Delayed,Jamesfurt,New Justinberg,1555,692,First Class
+9,Delta,3,2024/01/06 08:19:00,2024/02/08 12:38:00,65.70502828,J,Delayed,Michaelchester,Johnside,801,28871,First Class
+10,AA,3,2024/04/02 00:25:00,2024/01/25 22:26:00,137.4087376,A,On Time,North Amy,South Danielmouth,2673,8364,Business
+11,Delta,4,2024/04/07 14:58:00,2024/02/06 04:10:00,379.8203462,Q,On Time,Lake George,Lake John,90573,81379,First Class
+12,Delta,1,2024/03/29 04:19:00,2024/02/05 20:01:00,112.4146414,O,On Time,East Shelby,Lake Melissa,8753,80860,First Class
+13,United,5,2024/01/03 19:58:00,2024/01/15 14:07:00,149.1192685,C,On Time,West Stephen,Lake Thomas,54891,631,Economy
+14,AA,2,2024/02/22 22:46:00,2024/03/20 16:48:00,75.27404652,P,Cancelled,New Alexis,Lake Richard,4778,2878,Business
+15,Southwest,3,2024/04/09 12:33:00,2024/01/25 23:03:00,361.2947303,T,Cancelled,Andersonburgh,Port Eugeneport,70087,64909,First Class
+16,Southwest,5,2024/03/05 10:05:00,2024/01/24 09:35:00,254.8798029,A,Cancelled,Lake Melissa,Hollandchester,3205,5530,First Class
+17,United,4,2024/04/04 16:19:00,2024/01/26 07:46:00,378.4672709,G,On Time,Herringtown,North Laura,4,255,Business
+18,Spirit,1,2024/03/05 05:22:00,2024/01/21 08:38:00,341.1096508,J,Cancelled,South Gabrielfurt,Foxview,4570,74892,Business
+19,Delta,3,2024/03/13 03:15:00,2024/01/26 00:24:00,103.5130832,S,On Time,Adamshaven,New Leonardside,986,9038,Business
+20,Spirit,3,2024/03/20 15:31:00,2024/03/11 02:13:00,476.7733172,X,Cancelled,Cuevasshire,Markside,86378,97946,Business
